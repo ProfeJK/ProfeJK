@@ -8,7 +8,7 @@ Soy **@ProfeJK**, un apasionado explorador del vasto universo de Python y el an�
 
 🌟 Aprendizaje Actual: Actualmente, estoy sumergiéndome en el mundo de las PINNs, explorando cómo estas poderosas herramientas pueden ser aplicadas para modelar fenómenos complejos que son desafiantes para las técnicas tradicionales.
 
-🤝 Colaboraciones: Estoy en la búsqueda de oportunidades para colaborar en proyectos que utilicen Redes Neuronales Convolucionales (CNN) orientadas a imágenes hiperespectrales, especialmente en el contexto de las geociencias. Si estás trabajando en algo emocionante y necesitas un compañero de equipo, ¡hagamos sinergia!
+### 🤝 Colaboraciones: Estoy en la búsqueda de oportunidades para colaborar en proyectos que utilicen Redes Neuronales Convolucionales (CNN) orientadas a imágenes hiperespectrales, especialmente en el contexto de las geociencias. Si estás trabajando en algo emocionante y necesitas un compañero de equipo, ¡hagamos sinergia!
 
 📬 Contacto: Puedes alcanzarme directamente en mi correo electrónico j.vegad@uniandes.edu.co. Estoy abierto a discutir ideas, proyectos o simplemente charlar sobre las últimas tendencias en tecnología y ciencia.
 
