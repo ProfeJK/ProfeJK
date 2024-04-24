@@ -14,6 +14,8 @@ Soy **@ProfeJK**, un apasionado explorador del vasto universo de Python y el an�
 
 ⚡ Dato Curioso: me encantan los drones y realizo proyectos de adquisicion de imagenes.
 
+![Imagen GPT](https://github.com/ProfeJK/ProfeJK/blob/main/imagenes/DALL%C2%B7E%202024-04-24%2014.48.01%20-%20A%20split%20image%20showcasing%20two%20versions%20of%20the%20same%20landscape.%20On%20the%20left%2C%20a%20rustic%20version%20of%20a%20landscape%2C%20depicted%20with%20basic%20shapes%20and%20minimal%20deta.webp)
+
 <!---
 ProfeJK/ProfeJK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
