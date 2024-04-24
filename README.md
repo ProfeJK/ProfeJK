@@ -1,4 +1,4 @@
-🚀 ### Bienvenidos a la vanguardia de la ciencia de datos y la innovación en inteligencia artificial! 
+🚀 ###Bienvenidos a la vanguardia de la ciencia de datos y la innovación en inteligencia artificial! 
 
 Soy @ProfeJK, un apasionado explorador del vasto universo de Python y el análisis de datos. Mi misión es profundizar en los misterios del aprendizaje automático y desbloquear nuevos horizontes de conocimiento.
 
