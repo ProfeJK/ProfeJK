@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProfeJK/ProfeJK/main/imagenes/perfil%20GITHUB.png" alt="Juan K Banner" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/ProfeJK/ProfeJK/main/imagenes/perfil%20GITHUB.png" alt="Juan K Banner" style="max-width: 50%;">
 </p>
 
 
