@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://chat.openai.com/mnt/data/A_digital_illustration_features_a_profile_portrait.png" alt="Juan K Banner" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/ProfeJK/ProfeJK/main/imagenes/perfil%20GITHUB.png" alt="Juan K Banner" style="max-width: 100%;">
 </p>
+
 
 ---
 
