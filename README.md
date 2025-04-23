@@ -1,4 +1,22 @@
-### 🚀Bienvenidos a la vanguardia de la ciencia de datos y la innovación en inteligencia artificial! 
+<p align="center">
+  <img src="https://chat.openai.com/mnt/data/A_digital_illustration_features_a_profile_portrait.png" alt="Juan K Banner" style="max-width: 100%;">
+</p>
+
+---
+
+### 🧠 Juan K
+
+**Profesor e investigador en IA, imágenes espectrales y ciencia de datos.**  
+🔐 Explorando el límite entre inteligencia artificial y seguridad cuántica.  
+🧬 *La inteligencia, artificial o no, se construye una iteración a la vez.*
+
+---
+
+🎓 Actualmente profesor de ChatGPT aplicado a ciencias e ingeniería  
+🌈 Experto en redes neuronales, codificación óptica y compresión sensitiva  
+🚀 Amante de los modelos caóticos, las GANs energéticas y las claves imposibles
+
+
 
 Soy **@ProfeJK**, un apasionado explorador del vasto universo de Python y el análisis de datos. Mi misión es profundizar en los misterios del aprendizaje automático y desbloquear nuevos horizontes de conocimiento.
 
