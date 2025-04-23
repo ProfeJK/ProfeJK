@@ -20,8 +20,7 @@
 
 Soy **@ProfeJK**, un apasionado explorador del vasto universo de Python y el análisis de datos. Mi misión es profundizar en los misterios del aprendizaje automático y desbloquear nuevos horizontes de conocimiento.
 
-![logo](https://chat.openai.com/mnt/data/A_digital_illustration_features_a_profile_portrait.png) 
-#[https://github.com/ProfeJK/ProfeJK/blob/main/imagenes/collage.png]
+![logo](https://github.com/ProfeJK/ProfeJK/blob/main/imagenes/collage.png)
 
 📊 Intereses: Mi curiosidad me ha llevado a especializarme en redes neuronales y en la aplicación de técnicas avanzadas de análisis de datos para resolver problemas complejos. Estoy particularmente fascinado por el potencial de las Redes Neuronales de Física Informada (PINNs) y cómo pueden transformar nuestra comprensión en diversos campos científicos.
 
